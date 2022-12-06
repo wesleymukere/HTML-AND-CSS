@@ -33,7 +33,9 @@ form{
     width: 20vw;
     color: darkorange;
 }
-
+.fa-fire:before {
+    content: "\f06d";
+}
 .flex-container {
     display: flex;
 }
